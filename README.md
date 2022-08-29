@@ -9,7 +9,7 @@ THis project has a body.py for calculating the forces between the bodies, and ut
 # Setup
 To run this project in your system, follow the steps below
 
-`Step1:` `$ git clone https://github.com/vinayaktiwari/N-Body-Orbital-Mechanics.git`
-`Step2:` `$ pip install -r requirements.txt`
-`Step3:` `$ python3 main.py --num_planets 3`
+- `Step1:` `$ git clone https://github.com/vinayaktiwari/N-Body-Orbital-Mechanics.git`
+- `Step2:` `$ pip install -r requirements.txt`
+- `Step3:` `$ python3 main.py --num_planets 3`
 parameter **num_bodies** takes integer value from 1 to 6
